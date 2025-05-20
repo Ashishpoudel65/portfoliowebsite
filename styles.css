@@ -65,9 +65,10 @@ ul {
 }
 
 .logo {
+  font-family: "Blackadder ITC", "Brush Script MT", cursive;
   font-size: 1.8rem;
   font-weight: 700;
-  color: var(--primary-color);
+  color: #450606;
 }
 
 .desktop-nav {
